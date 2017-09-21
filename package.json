@@ -1,6 +1,6 @@
 {
   "name": "career",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Career Description File Format for Resume/CV Applications",
   "main": "index.js",
   "scripts": {
