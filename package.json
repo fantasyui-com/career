@@ -1,0 +1,20 @@
+{
+  "name": "career",
+  "version": "1.0.0",
+  "description": "Career Description File Format for Resume/CV Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/career.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/career/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/career#readme"
+}
